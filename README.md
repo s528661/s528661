@@ -1,4 +1,5 @@
 ### Hi there 🍊   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/citrus1998=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=citrus1998&theme=vue)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=citrus1998&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=citrus1998&theme=vue)  
