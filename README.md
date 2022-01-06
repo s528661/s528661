@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/-MySQL-111111?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-EE4C2C?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vim-1572B6?style=flat-square&logo=Vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/-LaTex-008080?style=flat-square&logo=LaTex&logoColor=white"/>
