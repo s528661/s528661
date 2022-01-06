@@ -1,4 +1,12 @@
-### Hi there 🍊   
+### Hi there 🍊 
+
+### Languages and Skills
+
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+</p>
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&count_private=true&show_icons=true&theme=vue" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=citrus1998&count_private=true&show_icons=true&show_icons=true&theme=vue" />
