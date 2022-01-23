@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vim-11AB00?style=flat-square&logo=Vim&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Powershell-5391FE.svg?logo=powershell&style=flat-square">
 <!--
 <img src="https://img.shields.io/badge/-sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
 -->
@@ -27,6 +28,10 @@
 <img src="https://img.shields.io/badge/-CentOS7-EE4C2C?style=flat-square&logo=centos&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Ubuntu18.04-EE4C2C?style=flat-square&logo=ubuntu&logoColor=white"/>
 </p>
+
+### Challenges  
+<img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat-square">
+<img src="https://img.shields.io/badge/-Atlassian-0052CC.svg?logo=atlassian&style=flat-square">
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&count_private=true&show_icons=true&theme=vue" />
