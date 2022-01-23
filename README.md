@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/-C-2496ED?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=C-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=flat-square">
+<img src="https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=flat-square">
 <img src="https://img.shields.io/badge/-numpy-150458?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat-square&logoColor=white">
