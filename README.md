@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-numpy-150458?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/-django-?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PHP-150458?style=flat-square&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-111111?style=flat-square&logo=MySQL&logoColor=white"/>
