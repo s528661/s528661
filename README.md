@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat-square">
 <img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat-square">
 <img src="https://img.shields.io/badge/-Atlassian-0052CC.svg?logo=atlassian&style=flat-square">
+<img src="https://img.shields.io/badge/-Microsoftazure-0089D6.svg?logo=microsoftazure&style=flat-square">
 </p>
 
 <p align="left"> 
