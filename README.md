@@ -3,6 +3,7 @@
 ### Languages and Skills
 
 <p>
+<img src="https://img.shields.io/badge/-Intel-0071C5.svg?logo=intel&style=flat-square">
 <img src="https://img.shields.io/badge/-C-2496ED?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=C-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -20,15 +21,14 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vim-11AB00?style=flat-square&logo=Vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Powershell-5391FE.svg?logo=powershell&style=flat-square">
-<!--
-<img src="https://img.shields.io/badge/-sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
--->
+<img src="https://img.shields.io/badge/-Sublimetext-272822.svg?logo=sublimetext&style=flat-square">
 <img src="https://img.shields.io/badge/-LaTex-008080?style=flat-square&logo=LaTex&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CentOS7-EE4C2C?style=flat-square&logo=centos&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Ubuntu18.04-EE4C2C?style=flat-square&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Redhat-EE0000.svg?logo=redhat&style=flat-square">
 </p>
 
 ### Challenges  
