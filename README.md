@@ -30,8 +30,10 @@
 </p>
 
 ### Challenges  
+<p>
 <img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat-square">
 <img src="https://img.shields.io/badge/-Atlassian-0052CC.svg?logo=atlassian&style=flat-square">
+</p>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&count_private=true&show_icons=true&theme=vue" />
