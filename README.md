@@ -1,6 +1,17 @@
 <center>
 
 # Hi there 🍊 
+  
+```C++
+using namespace citrus1998;
+
+int main() {
+    cout << "Hello, World!" << endl;
+    
+    return 0;
+}
+``` 
+<br>  
 
 ### Languages and Skills
 
