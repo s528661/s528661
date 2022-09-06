@@ -1,5 +1,7 @@
-[![My Skills](https://skills.thijs.gg/icons?i=git,vim,docker,c,python,go&theme=dark)](https://skills.thijs.gg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">  
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&theme=vue-dark](https://skills.thijs.gg/icons?i=git,vim,docker,c,python,go&theme=dark)" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&theme=vue-dark" />  
+</p>  
 
 
 
