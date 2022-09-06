@@ -1,4 +1,4 @@
-[![My Skills](https://skills.thijs.gg/icons?i=c,python,go,figma&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,python,go&theme=dark)](https://skills.thijs.gg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
