@@ -1,6 +1,6 @@
 <p align="center">  
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&theme=vue-dark](https://skills.thijs.gg/icons?i=git,vim,docker,c,python,go&theme=dark)" />  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&theme=vue-dark" />  
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&count_private=true&show_icons=true&theme=vue-dark" />
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=citrus1998&count_private=true&show_icons=true&show_icons=true&theme=vue-dark" />
 </p>  
 
 
@@ -10,6 +10,7 @@
 <!--  
 <center>
 
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&theme=vue-dark](https://skills.thijs.gg/icons?i=git,vim,docker,c,python,go&theme=dark)" /> 
 # Hi there 🍊 
   
 ### Languages and Skills
