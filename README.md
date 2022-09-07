@@ -12,18 +12,11 @@
 ### Sub-Main  
 <p align="center">
     <img src="https://img.shields.io/badge/-C-2496ED?style=flat-square&logo=C&logoColor=white"/>
-    
 </p>  
 
 ### Experienced  
-
-<center>
-   <ul>
-       <li><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=C-sharp&logoColor=white"/></li>
-       <li></li>
-       <li></li>
-    </ul>
-</center>
+<p align="center">
+</p> 
 
 <p align="center">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
