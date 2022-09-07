@@ -2,12 +2,12 @@
 ## My Skills 
 ### Main & Research  
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=vim&style=flat"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </p>  
 
 ### Sub-Main  
 <p align="center">
-    <img src="https://img.shields.io/badge/-C-2496ED?style=flat-square&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C-2496ED?style=flat&logo=C&logoColor=white"/>
 </p>  
 
 ### Experienced  
