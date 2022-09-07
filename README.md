@@ -19,9 +19,9 @@
 
 <center>
    <ul>
-       <li>HTMLとCSSを勉強しよう</li>
-       <li>HTMLとCSSの基本</li>
-       <li>WEBデザインを学ぼう</li>
+       <li><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=C-sharp&logoColor=white"/></li>
+       <li></li>
+       <li></li>
     </ul>
 </center>
 
