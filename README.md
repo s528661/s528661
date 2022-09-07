@@ -4,6 +4,13 @@
 <p align="center">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=citrus1998&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />  
+</p>  
+
+<p align="center">
+    <img alt="Commits" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=citrus1998&theme=tokyonight" />   
+    <img alt="" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=citrus1998&theme=tokyonight" />  
+    <img alt="" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=citrus1998&theme=tokyonight" />  
+    <img alt="" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=citrus1998&theme=tokyonight" />  
     <img alt="trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=citrus1998&count_private=true&show_icons=true&theme=algolia&column=-1" />
 </p>  
 
