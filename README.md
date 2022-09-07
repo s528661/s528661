@@ -2,16 +2,36 @@
 ## My Skills 
 ### Main & Research  
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> (
+    <img src="https://img.shields.io/badge/-numpy-150458?style=flat&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&logoColor=white">
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+    )
+</p>  
+<p align="center">
+    <img src="https://img.shields.io/badge/-LaTex-008080?style=flat&logo=LaTex&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Vim-11AB00?style=flat&logo=Vim&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat&logo=Git&logoColor=white"/>
 </p>  
 
 ### Sub-Main  
 <p align="center">
     <img src="https://img.shields.io/badge/-C-2496ED?style=flat&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 </p>  
 
 ### Experienced  
 <p align="center">
+    <img src="https://img.shields.io/badge/-PHP-150458?style=flat&logo=PHP&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=C-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=flat">
+    <img src="https://img.shields.io/badge/-MySQL-111111?style=flat&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-EE4C2C?style=flat&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat">
 </p> 
 
 <p align="center">
