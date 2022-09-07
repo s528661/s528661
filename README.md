@@ -1,5 +1,29 @@
 # My Status  
-## My Skills  
+## My Skills 
+### Main & Research  
+<p align="center">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> ( 
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-numpy-150458?style=flat-square&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+    )
+</p>  
+
+### Sub-Main  
+<p align="center">
+    <img src="https://img.shields.io/badge/-C-2496ED?style=flat-square&logo=C&logoColor=white"/>
+    
+</p>  
+
+### Experienced  
+
+<center>
+   <ul>
+       <li>HTMLとCSSを勉強しよう</li>
+       <li>HTMLとCSSの基本</li>
+       <li>WEBデザインを学ぼう</li>
+    </ul>
+</center>
 
 <p align="center">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
