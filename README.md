@@ -1,4 +1,5 @@
 # My Status  
+<!--
 ## My Skills 
 ### Main & Research  
 <p align="center">
@@ -53,7 +54,7 @@
     <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </p>
-
+-->
 <br>
 <p align="center">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
