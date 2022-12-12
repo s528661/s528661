@@ -56,9 +56,10 @@
 </p>
 -->
 <p align="center">
-    <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="600">
-    <br><br>
-    <!--<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="40%">
+    <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="500">
+    <!--
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=citrus1998&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />  
+    <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="40%">
     <img src="/github-metrics.svg" alt="Metrics" width="40%">-->
 </p>  
 <!--
