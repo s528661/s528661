@@ -56,11 +56,11 @@
 </p>
 -->
 <p align="center">
-    <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="40%">
-    <img src="/github-metrics.svg" alt="Metrics" width="40%">
-    <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="800">
+    <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="600">
+    <br><br>
+    <!--<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="40%">
+    <img src="/github-metrics.svg" alt="Metrics" width="40%">-->
 </p>  
-<br>
 <!--
 <p align="center">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
