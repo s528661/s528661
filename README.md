@@ -55,16 +55,7 @@
     <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </p>
 -->
-<p>
-  <a href="https://github.com/lowlighter/metrics">
-    <img align="center" src="https://raw.githubusercontent.com/citrus1998/citrus1998/main/metrics.plugin.isocalendar.fullyear.svg" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/lowlighter/metrics">
-    <img align="center" src="https://raw.githubusercontent.com/citrus1998/citrus1998/main/metrics.plugin.languages.details.svg" />
-  </a>
-</p>
+
 <br>
 <p align="center">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1998&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
