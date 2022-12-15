@@ -1,4 +1,5 @@
 ![double_pendulums](https://user-images.githubusercontent.com/61907831/207881684-20e8f80c-0fe5-4c0a-8548-8a1b680d7dbd.gif)
+<img src="/metrics.plugin.languages.details.svg" alt="Metrics" width="450">
 <!--
 ## My Skills 
 ### Main & Research  
