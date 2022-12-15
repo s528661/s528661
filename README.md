@@ -58,7 +58,7 @@
 <p align="center">
     <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="500">
     <!--
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=citrus1998&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />  
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=s526881&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />  
     <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="40%">
     <img src="/github-metrics.svg" alt="Metrics" width="40%">-->
 </p>  
@@ -72,9 +72,9 @@
 </p> 
 
 <p align="center">
-    <img alt="Commits" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=citrus1998&theme=tokyonight" />   
-    <img alt="" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=citrus1998&theme=tokyonight" />  
-    <img alt="trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=citrus1998&count_private=true&show_icons=true&theme=algolia&column=-1" />
+    <img alt="Commits" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s528661&theme=tokyonight" />   
+    <img alt="" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s528661&theme=tokyonight" />  
+    <img alt="trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=s528661&count_private=true&show_icons=true&theme=algolia&column=-1" />
 </p> 
 
 
