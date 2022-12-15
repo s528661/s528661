@@ -1,4 +1,4 @@
-# My Status  
+![double_pendulums](https://user-images.githubusercontent.com/61907831/207881684-20e8f80c-0fe5-4c0a-8548-8a1b680d7dbd.gif)
 <!--
 ## My Skills 
 ### Main & Research  
@@ -56,7 +56,9 @@
 </p>
 -->
 <p align="center">
-    <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="500">
+    <!--
+    <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
+    -->
     <!--
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=s526881&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />  
     <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="40%">
@@ -71,11 +73,13 @@
     -->
 </p> 
 
+<!--
 <p align="center">
     <img alt="Commits" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s528661&theme=tokyonight" />   
     <img alt="" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s528661&theme=tokyonight" />  
     <img alt="trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=s528661&count_private=true&show_icons=true&theme=algolia&column=-1" />
 </p> 
+-->
 
 
 
