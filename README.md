@@ -1,4 +1,4 @@
-![double_pendulums](https://user-images.githubusercontent.com/61907831/207881684-20e8f80c-0fe5-4c0a-8548-8a1b680d7dbd.gif)
+![double_pendulums](https://user-images.githubusercontent.com/61907831/207883884-3daabba7-0755-4234-974d-5ae87ef3a39a.gif)
 <!--
 ## My Skills 
 ### Main & Research  
